@@ -1,0 +1,76 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "nombre": "Luna",
+      "especie": "Perro",
+      "raza": "Labrador Retriever",
+      "edad": 3,
+      "peso": 30.2,
+      "comidaFavorita": "Croquetas de pollo",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/04/Labrador_Retriever_%281210559%29.jpg",
+      "descripcion": "Luna es una perra Labrador Retriever de color dorado. Es muy amigable, enérgica y le encanta jugar al aire libre. Su comida favorita son las croquetas de pollo."
+    },
+    {
+      "id": 2,
+      "nombre": "Gabo",
+      "especie": "Reptil",
+      "raza": "Camaleón",
+      "edad": 5,
+      "peso": 8,
+      "comidaFavorita": "Cucharachas",
+      "imagen": "https://www.shutterstock.com/image-photo/cute-funny-chameleon-chamaeleo-calyptratus-600nw-1480324304.jpg",
+      "descripcion": "Gabo es un camaleón muy divertido y juguetón, le encanta cambiar de color y es muy curioso. Su comida favorita son las cucharachas."
+    },
+    {
+      "nombre": "ASDASD",
+      "especie": "ASDASD",
+      "raza": "ASDASD",
+      "edad": "ASDADs",
+      "peso": "ASDAD",
+      "comidaFavorita": "ASDADS",
+      "descripcion": "ASDASDASDASD",
+      "id": 3
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "petID": 1,
+      "title": "Croquetas de carne",
+      "description": "Croquetas de carne hechas con ingredientes frescos y de alta calidad. Contiene carne, arroz, zanahoria, espinaca y aceite de oliva.",
+      "hour": "08:00 am"
+    },
+    {
+      "id": 2,
+      "petID": 1,
+      "title": "Croquetas de cerdo",
+      "description": "Croquetas de cerdo hechas con ingredientes frescos y de alta calidad. Contiene cerdo, arroz, zanahoria, espinaca y aceite de oliva.",
+      "hour": "06:00 pm"
+    }
+  ],
+  "appointments": [
+    {
+      "vet": "ASDASD",
+      "reason": "ASDASD",
+      "details": [
+        "ASDASD"
+      ],
+      "date": "ASDASD",
+      "hour": "ASDASD",
+      "id": 1
+    }
+  ],
+  "treatments": [
+    {
+      "petID": 1,
+      "id": 1,
+      "title": "Medicamento contra pulgas y garrapatas",
+      "startDate": "15 de abril de 2024",
+      "duration": "3 meses",
+      "medicine": "FleaGone Plus",
+      "dose": "Aplicar una pipleta cada semana",
+      "indications": "Aplicar en la parte posterior del cuello como se indica en las intrucciones del producto"
+    }
+  ]
+}
